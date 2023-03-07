@@ -6,7 +6,7 @@ subtitle: <a href='#'><strong>Graduate Research Associate<strong></a>  @ Arizona
 
 profile:
   align: right
-  image: nima_profile pic.jpg
+  image: mypic_resize-removebg-preview.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p style="color:rgb(34,134,213);"> ntaghip1[at]asu[dot]edu</p>
@@ -25,7 +25,8 @@ As an electrical engineer with a solid background on power system and smart grid
 
 In the recent years, technological advancements in distributed computing, internet of things, big data and cloud computing as well as many successful practical applications of the machine learning-based products and services, have provided wide range of opportunities for almost every business sector in our industrial world. Examples include but not limited to healthcare, digital media industry, IT industry, supply chain, etc. However, the practical application of machine learning technologies in industries and critical infrastructure sectors, specifically in time sensitive and critical decision-making applications, are often restricted by many limiting factors such as privacy, security, and publicly available data. 
 
-I have 8+ years of experience in variety of topics related to the power system and smart grid. Considering my interest and knowledge of the state-of-the-art machine learning (ML) and data science techniques, the overarching goal of my research is to exploit the power of ML and artificial intelligence techniques in solving the real-world power system related problems.  
+<!-- I have 8+ years of experience in variety of topics related to the power system and smart grid.  -->
+Considering my interest and knowledge of the state-of-the-art machine learning (ML) and data science techniques, the overarching goal of my research is to exploit the power of ML and artificial intelligence techniques in solving real-world problems.  
 <!-- I am highly interested in solving the real-world problems of complex systems (e.g., power systems, eMobility networks, etc.) by exploiting the power of machine learning and artificial intelligence techniques.  -->
 
 I joined Arizona State University (ASU) in Fall 2019, and am currently pursuing my PhD degree at the School of Electrical, Computer, and Energy Engineering, working under supervision of Professor <a href="https://sites.google.com/site/okosut/">Oliver Kosut</a> and  <a href="https://sankar.engineering.asu.edu/">Lalitha Sankar</a>. 
