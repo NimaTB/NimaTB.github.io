@@ -75,6 +75,7 @@ During my PhD, I have been actively working on various research projects. These 
 available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a> ), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation (for further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>). 
 </p> 
 
+
 <!-- ,
 power system dynamics and stability, resiliency-oriented planning and operation of 
 power system, battery energy storage systems and their integration to renewable energy sources in Microgrids, and optimization methods applied for power system optimal planning and operation. -->
