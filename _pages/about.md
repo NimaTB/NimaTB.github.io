@@ -33,8 +33,8 @@ I joined Arizona State University (ASU) in Fall 2019, and am currently pursuing 
 Currently I am focusing on the application of ML and data science in identifying various types of events in power systems using the huge amount of high-dimensional Spatio-temporal data obtained from GPS-synchronized measurement devices (Click <a href="https://sankar.engineering.asu.edu/high-dimensional-spatio-temporal-data-science-for-a-resilient-power-grid-towards-real-time-integration-of-synchrophasor-data/">here</a> for further details.).
 
 I have been fortunate to directly work with outstanding professors, experts, and researchers in the area of statistics, information theory, machine learning, big data and data science. 
-Through my experience in multiple, large interdisciplinary and collaborative research project,  the  importance of having a fundamental knowledge of computer science has significantly been highlighted, specifically when designing and developing a production level machine learning pipeline. 
-Having this in my mind, I have been constantly working on strengthening my knowledge in fundamentals of computer science (e.g., algorithms and data structures, dynamic programing, cloud computing and distributed computation concept) and skills in machine learning, deep learning, computer vision, signal processing and time series analysis. 
+Through my experience in multiple, large interdisciplinary and collaborative research projects,  the  importance of having a fundamental knowledge of computer science has significantly been highlighted, specifically when designing and developing a production level machine learning pipeline. 
+Having this in my mind, I have been constantly working on strengthening my knowledge in fundamentals of computer science (e.g., algorithms and data structures, dynamic programing, cloud computing, and distributed computation concept) and skills in machine learning, deep learning, computer vision, natural language processing, signal processing and time series analysis. 
 
 
  <!-- Currently, I am a graduate research associate at the School of Electrical, Computer, and Energy 
@@ -71,8 +71,8 @@ Considering my research experience on a variety of topics related to power syste
 
 
 <p>
-During my PhD, I have been actively working on various research projects. These projects were supported by the National Science Foundation under Grants  <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>,  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a> , in part by the Power System Engineering Research Center (PSERC) under Project S-87 (The Final Report is
-available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a> ), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation (Further details, <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>). 
+During my PhD, I have been actively working on various research projects. These projects were supported by the National Science Foundation under Grants  <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>,  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a> , by the Power System Engineering Research Center (PSERC) under Project S-87 (final report is
+available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a> ), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation (fpr further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>). 
 </p> 
 
 <!-- ,
