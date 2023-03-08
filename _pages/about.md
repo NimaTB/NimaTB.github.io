@@ -72,7 +72,7 @@ Considering my research experience on a variety of topics related to power syste
 
 <p>
 During my PhD, I have been actively working on various research projects. These projects were supported by the National Science Foundation under Grants  <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>,  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a> , by the Power System Engineering Research Center (PSERC) under Project S-87 (final report is
-available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a> ), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation (fpr further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>). 
+available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a> ), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation (for further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>). 
 </p> 
 
 <!-- ,
