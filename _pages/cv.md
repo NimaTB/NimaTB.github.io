@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv 
 nav: true
 nav_order: 4
-cv_pdf: Resume___Updated_linkedin.pdf
+cv_pdf: Nima T.Bazargani_CV.pdf
 ---
