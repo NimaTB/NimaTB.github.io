@@ -21,20 +21,38 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As an electrical engineer with a solid background on power system and smart grid technologies, I am passionate for exploiting the power of machine learning technology and data science in solving complex real-world problems. 
+Welcome to my personal homepage! As an electrical engineer with a background in power systems, I possess a keen interest in leveraging the potential of machine learning and data science to tackle intricate real-world challenges.
+
+In recent years, there have been significant advancements in the cloud computing, distributed computing, internet of things, big data technologies, etc. These advancements have led to successful practical applications of machine learning-based products and services across a range of business sectors, including healthcare, finance, digital media, IT, and supply chain, among others. However, despite the numerous opportunities presented by machine learning technologies, their practical application, especially in critical infrastructure sectors, is often constrained by various limiting factors, such as privacy, security, and the availability of public data. This is particularly evident in time-sensitive and critical decision-making applications.
+
+Currently I am focusing on the application of ML and data science in identifying various types of events in power systems using the huge amount of high-dimensional Spatio-temporal data obtained from GPS-synchronized measurement devices.Click <a href="https://sankar.engineering.asu.edu/high-dimensional-spatio-temporal-data-science-for-a-resilient-power-grid-towards-real-time-integration-of-synchrophasor-data/">here</a> for further details.
+
+I joined Arizona State University (ASU) in Fall 2019, and am currently pursuing my PhD degree at the School of Electrical, Computer, and Energy Engineering, working under supervision of Professor <a href="https://sites.google.com/site/okosut/">Oliver Kosut</a> and  <a href="https://sankar.engineering.asu.edu/">Lalitha Sankar</a>.  
+
+During my PhD, I have been fortunate to directly work with outstanding professors, experts, and researchers in the area of statistics, information theory, machine learning, big data and data science. 
+Through my experience in multiple, large interdisciplinary and collaborative research projects,  the  importance of having a fundamental knowledge of computer science has significantly been highlighted, specifically when designing and developing a production level machine learning pipeline. 
+Having this in my mind, I have been constantly working on strengthening my knowledge in fundamentals of computer science (e.g., algorithms and data structures, dynamic programing), as well as machine learning and deep learning technologies, particularly for applications involving time series classification. 
+
+<p>
+I have been actively working on various research projects. These projects were supported by the National Science Foundation under Grants  <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>,  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a> , by the Power System Engineering Research Center (PSERC) under Project S-87 (final report is
+available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a>), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) foundation. (for further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>. )
+</p> 
+<!-- In the recent years, technological advancements in distributed computing, internet of things, big data and cloud computing as well as many successful practical applications of the machine learning-based products and services, have provided wide range of opportunities for almost every business sector in our industrial world. Examples include but not limited to healthcare, digital media industry, IT industry, supply chain, etc. However, the practical application of machine learning technologies in industries and critical infrastructure sectors, specifically in time sensitive and critical decision-making applications, are often restricted by many limiting factors such as privacy, security, and publicly available data. 
+
+ particularly in the power system and smart grid domains. With a solid background in these areas, I am well-equipped to harness the power of state-of-the-art ML and artificial intelligence techniques to address the challenges faced by industries today. My overarching goal is to make a significant contribution towards solving real-world problems by applying my expertise in ML and data science. -->
+
+<!-- As an electrical engineer with a solid background on power system and smart grid technologies, I am passionate for exploiting the power of machine learning technology and data science in solving complex real-world problems. 
 
 In the recent years, technological advancements in distributed computing, internet of things, big data and cloud computing as well as many successful practical applications of the machine learning-based products and services, have provided wide range of opportunities for almost every business sector in our industrial world. Examples include but not limited to healthcare, digital media industry, IT industry, supply chain, etc. However, the practical application of machine learning technologies in industries and critical infrastructure sectors, specifically in time sensitive and critical decision-making applications, are often restricted by many limiting factors such as privacy, security, and publicly available data. 
+ -->
+
+
 
 <!-- I have 8+ years of experience in variety of topics related to the power system and smart grid.  -->
-Considering my interest and knowledge of the state-of-the-art machine learning (ML) and data science techniques, the overarching goal of my research is to exploit the power of ML and artificial intelligence techniques in solving real-world problems.  
+<!-- Considering my interest and knowledge of the state-of-the-art machine learning (ML) and data science techniques, the overarching goal of my research is to exploit the power of ML and artificial intelligence techniques in solving real-world problems.   -->
 <!-- I am highly interested in solving the real-world problems of complex systems (e.g., power systems, eMobility networks, etc.) by exploiting the power of machine learning and artificial intelligence techniques.  -->
 
-I joined Arizona State University (ASU) in Fall 2019, and am currently pursuing my PhD degree at the School of Electrical, Computer, and Energy Engineering, working under supervision of Professor <a href="https://sites.google.com/site/okosut/">Oliver Kosut</a> and  <a href="https://sankar.engineering.asu.edu/">Lalitha Sankar</a>. 
-Currently I am focusing on the application of ML and data science in identifying various types of events in power systems using the huge amount of high-dimensional Spatio-temporal data obtained from GPS-synchronized measurement devices (Click <a href="https://sankar.engineering.asu.edu/high-dimensional-spatio-temporal-data-science-for-a-resilient-power-grid-towards-real-time-integration-of-synchrophasor-data/">here</a> for further details.).
 
-I have been fortunate to directly work with outstanding professors, experts, and researchers in the area of statistics, information theory, machine learning, big data and data science. 
-Through my experience in multiple, large interdisciplinary and collaborative research projects,  the  importance of having a fundamental knowledge of computer science has significantly been highlighted, specifically when designing and developing a production level machine learning pipeline. 
-Having this in my mind, I have been constantly working on strengthening my knowledge in fundamentals of computer science (e.g., algorithms and data structures, dynamic programing, cloud computing, and distributed computation concept) and skills in machine learning, deep learning, computer vision, natural language processing, signal processing and time series analysis. 
 
 
  <!-- Currently, I am a graduate research associate at the School of Electrical, Computer, and Energy 
@@ -70,10 +88,7 @@ Considering my research experience on a variety of topics related to power syste
 
 
 
-<p>
-During my PhD, I have been actively working on various research projects. These projects were supported by the National Science Foundation under Grants  <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>,  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a> , by the Power System Engineering Research Center (PSERC) under Project S-87 (final report is
-available online <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">here</a> ), and in part by the U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) foundation (for further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>). 
-</p> 
+
 
 
 <!-- ,
