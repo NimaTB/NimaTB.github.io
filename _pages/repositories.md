@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Due to confidentiality reasons, the repositories corresponding to my research projects are not publicly available. 
+description: For confidentiality reasons, the GitHub repositories associated with my research projects are not accessible to the public. 
 nav: true
 nav_order: 3
 ---
