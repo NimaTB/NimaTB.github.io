@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://sankar.engineering.asu.edu/'><strong>Network Model Analyst</strong></a> @ CWP Energy & <a href='#'><strong>PhD. in Electrical Engineering</strong></a> @ Arizona State University.
+subtitle: Power System Engineer, Network Model Analyst</strong></a> @  <a href="https://www.electricpowergroup.com/">Electric Power Group (EPG)</a> & <a href='#'><strong> Ph.D., in Electrical Engineering</strong></a> @ Arizona State University.
 
 profile:
   align: right
@@ -19,55 +19,48 @@ news: true
 selected_papers: true
 social: true
 ---
+<h2>Welcome to My Personal Homepage</h2>
 
-<h2>Welcome to My Personal Homepage!</h2>
-<p>I am Nima T. Bazargani, an electrical engineer specializing in power systems with a passion for leveraging machine learning and data science to solve intricate real-world challenges. 
-Currently, I serve as a Network Model Analyst at <a href="https://www.cwpenergy.com/">CWP Energy</a>, where I conduct large-scale security-constrained unit commitment and economic dispatch simulations. 
-</p>
+<p>I'm Nima T. Bazargani, an electrical engineer specializing in power systems, with a focus on applying machine learning and data science to address complex, real-world challenges in this field. Currently, I work as a Power System Engineer at <a href="https://www.electricpowergroup.com/">Electric Power Group (EPG)</a>, where my efforts center on leveraging high-dimensional spatio-temporal synchrophasor data to identify and analyze various types of power system events.</p>
 
-<!-- <h2>Professional Expertise and Passion</h2> -->
-<p>With over 10 years of research and industrial experience, I have deeply engaged in the following areas, which continue to fuel my enthusiasm and drive:</p>
+<p>Previously, I served as a Network Model Analyst at <a href="https://www.cwpenergy.com/">CWP Energy</a>, where I conducted large-scale security-constrained unit commitment (SCUC) and economic dispatch simulations for major electricity markets in the U.S., including MISO, SPP, PJM, and ERCOT. Additionally, I enhanced the PYTHON simulation pipeline and its interaction with Google Cloud databases to enable large-scale, long-term simulations.</p>
+
+<h2>Professional Expertise</h2>
+
+<p>With over 10 years of experience in both research and industry, I am deeply engaged in the following areas:</p>
 <ul>
-    <li>Exploring electricity markets, with a focus on quantitative trading strategies for long-term financial transmission rights auctions, and financial hedging against the price risks of day-ahead congestion caused by transmission system constraints.
-</li>
-
-    <li>Applying machine learning (ML) and data science to enhance power system monitoring, operation, stability, and reliability. </li>
-    <!-- My work in this field has allowed me to develop and implement innovative solutions that improve system performance and resilience. -->
-    <li>Planning and operating power systems with a focus on resiliency. I am passionate about creating strategies that ensure reliable power delivery even in the face of abrupt disruptions and extreme events.</li>
-    <li>Integrating battery energy storage systems with renewable energy sources. This area excites me as it combines cutting-edge technology with sustainable practices, contributing to a cleaner and more efficient energy future.</li>
+    <li>Applying machine learning (ML) and data science to enhance power system monitoring, stability, and reliability.</li>
+    <li>Planning and operating power systems with a focus on resiliency, ensuring reliable power delivery in the face of disruptions and extreme events.</li>
+    <li>Exploring electricity markets, focusing on quantitative trading strategies, long-term financial transmission rights auctions, and financial hedging against price risks from transmission congestion.</li>
 </ul>
-<p>These topics not only reflect my experience but also represent the areas I am eager and committed to continue working on, as I explore new challenges and opportunities in the evolving landscape of power systems and energy technology.</p>
 
-
-
-<!--
-<h2>Current Focus</h2>
- <p> -->
-
- <!-- This role involves providing critical insights into locational market clearing prices and transmission congestion costs for major North American electricity markets, including ERCOT, MISO, PJM, and SPP.-->
- 
-  <!--  In addition, I am focusing on applying machine learning and data science to identify various types of events in power systems using high-dimensional spatio-temporal data obtained from GPS-synchronized measurement devices. -->
+<p>These areas reflect both my experience and the subjects I’m eager to continue exploring as the power systems and energy sectors evolve.</p>
 
 <h2>Academic Journey</h2>
-<p>I joined Arizona State University (ASU) in Fall 2019 and have completed a Ph.D. in Electrical Engineering at the School of Electrical, Computer, and Energy Engineering, under the supervision of <a href="https://sites.google.com/site/okosut/">Professor Oliver Kosut</a> and <a href="https://sankar.engineering.asu.edu/">Professor Lalitha Sankar</a>. My dissertation, supported by the National Science Foundation, focuses on real-time identification of power system events using high-dimensional spatio-temporal PMU data, reflecting my commitment to advancing the field of power systems through innovative research. <a href="https://sankar.engineering.asu.edu/high-dimensional-spatio-temporal-data-science-for-a-resilient-power-grid-towards-real-time-integration-of-synchrophasor-data/">Explore further details here</a>.</p> 
 
+<p>I completed my Ph.D. in Electrical Engineering at Arizona State University (ASU), specializing in the real-time identification of power system events using high-dimensional spatio-temporal PMU data, under the guidance of <a href="https://sites.google.com/site/okosut/">Professor Oliver Kosut</a> and <a href="https://sankar.engineering.asu.edu/">Professor Lalitha Sankar</a>. My research was supported by the National Science Foundation. <a href="https://sankar.engineering.asu.edu/high-dimensional-spatio-temporal-data-science-for-a-resilient-power-grid-towards-real-time-integration-of-synchrophasor-data/">Learn more about my research here</a>.</p>
 
-<!-- <h2>Research and Projects</h2> -->
-<p>During my Ph.D., I have actively contributed to various significant research projects supported by:</p>
+<h2>Research Projects</h2>
+
+<p>Throughout my Ph.D., I actively contributed to several significant research projects, including:</p>
 <ul>
-    <li>The National Science Foundation under Grants <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a>.</li>
-    <li>The Power System Engineering Research Center (PSERC) under Project S-87. <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">Final report available online here</a>.</li>
-    <li>The U.S.-Israel Energy Center managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) foundation. For further details, click <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>.</li>
+    <li>National Science Foundation grants <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1934766&HistoricalAwards=false">OAC-1934766</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048223&HistoricalAwards=false">CCF-2048223</a>, and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2029044&HistoricalAwards=false">CCF-2029044</a>.</li>
+    <li>Power System Engineering Research Center (PSERC) Project S-87. <a href="https://documents.pserc.wisc.edu/documents/publications/reports/2021_reports/S_87_Final_Report.pdf">See the final report here</a>.</li>
+    <li>The U.S.-Israel Energy Center, managed by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation. More details can be found <a href="https://us-isr-energycenter.org/energy_cyber/USIE.html">here</a>.</li>
 </ul>
-<p>These projects have enhanced my expertise in integrating statistical theories, machine learning, and data science to solve complex power system challenges focusing on applications involving time series classification and forecasting. <!-- My work has consistently involved designing and developing machine learning pipelines,  -->
+
+<p>These projects honed my expertise in integrating statistical theories, machine learning, and data science to solve power system challenges, particularly those involving time series classification and forecasting.</p>
+
 <h2>Personal Interests</h2>
-<p>Beyond my professional work, I enjoy a variety of activities that keep me engaged and inspired:</p>
+
+<p>Outside of my professional work, I enjoy a variety of activities that keep me inspired:</p>
 <ul>
-    <li>Reading, with a keen interest in psychology, neuroscience, and philosophy.</li>
-    <li>Outdoor activities like hiking, camping, kayaking, and off-roading.</li>
+    <li>Reading, especially in areas like history, psychology, neuroscience, and philosophy.</li>
+    <li>Outdoor activities such as hiking, camping, kayaking, and off-roading.</li>
     <li>Solving puzzles, including challenging metal brain teasers and wire puzzles.</li>
 </ul>
 
-Thank you for visiting my personal homepage. I look forward to connecting with you.
+<p>Thank you for visiting my personal homepage. I look forward to connecting with you.</p>
+
 <!-- <h2>Looking Ahead</h2>
 <p>As I continue to explore the potential of machine learning and data science in power systems, I am excited to apply my skills and knowledge to new challenges and opportunities. Thank you for visiting my personal homepage. I look forward to connecting with you.</p> -->
