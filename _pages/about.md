@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Power System Engineer, Network Model Analyst</strong></a> @  <a href="https://www.electricpowergroup.com/">Electric Power Group (EPG)</a> & <a href='#'><strong> Ph.D., in Electrical Engineering</strong></a> @ Arizona State University.
+subtitle: <strong> Power System Engineer, Network Model Analyst</strong></a> @  <a href="https://www.electricpowergroup.com/">Electric Power Group (EPG)</a> & <a href='#'><strong> Ph.D., in Electrical Engineering</strong></a> @ Arizona State University.
 
 profile:
   align: right
