@@ -9,7 +9,7 @@ profile:
   image: mypic_resize-removebg-preview.jpg
   image_circular: false
   address: >
-    <p style="color:rgb(34,134,213);">ntaghip1[at]asu[dot]edu</p>
+    <p style="color:rgb(34,134,213);">t.bazargani@electricpowergroup.com</p>
     <!-- <p style="color:rgb(175,100,50);">The Goldwater Center</p> -->
     <!--  <p style="color:rgb(175,100,50);">Room 429</p> -->
     <!--  <p style="color:rgb(175,100,50);">650 E. Tyler Mall</p> -->
