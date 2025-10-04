@@ -22,7 +22,10 @@ I'm Nima Taghipour Bazargani, a dedicated electrical engineer with expertise in 
 
 Most recently, as a **Power System Engineer** at [Electric Power Group (EPG)](https://www.electricpowergroup.com/), I focused on the Inertia Forecast project, developing a Python-based solution for forecasting system strength and inertia in power grids. By leveraging real-time PMU (Phasor Measurement Unit) data, I implemented incremental (continual) learning—specifically, a Model-Agnostic Meta-Learning (MAML) approach—to adapt forecasting models on an hourly basis, capturing short-term fluctuations and long-term trends while retaining historical knowledge and minimizing catastrophic forgetting.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6fc1262 (updated about me)
 Previously, as a **Network Model Analyst** at [CWP Energy](https://www.cwpenergy.com/), I performed large-scale security-constrained unit commitment (SCUC) and economic dispatch simulations for key U.S. markets (MISO, SPP, PJM, ERCOT). I also optimized a PYTHON-based simulation pipeline integrated with Google Cloud, enabling efficient long-term forecasting and analysis.
 
 <!--
@@ -68,3 +71,5 @@ Previously, as a **Network Model Analyst** at [CWP Energy](https://www.cwpenergy
 
 <!-- <h2>Looking Ahead</h2>
 <p>As I continue to explore the potential of machine learning and data science in power systems, I am excited to apply my skills and knowledge to new challenges and opportunities. Thank you for visiting my personal homepage. I look forward to connecting with you.</p> -->
+
+
