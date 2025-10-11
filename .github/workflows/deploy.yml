@@ -14,6 +14,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
+    # ✅ allows GitHub Actions to push to gh-pages
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -24,8 +28,12 @@ jobs:
           ruby-version: '3.0.2'
           bundler-cache: true
 
-      - name: Install deps
+      - name: Install Node dependencies
         run: npm install -g mermaid.cli
+
+      # ✅ Ensure Ruby gems are installed
+      - name: Install Ruby gems
+        run: bundle install --jobs 4 --retry 3
 
       - name: Setup deploy options
         id: setup
@@ -40,9 +48,11 @@ jobs:
           fi
           echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
 
-      - name: Fix permissions
-        run: chmod a+x bin/*
+      # ✅ make sure deploy script is executable
+      - name: Ensure deploy script is executable
+        run: chmod +x bin/deploy
 
+      # ✅ main deploy command
       - name: Deploy website
         run: |
           yes | bash bin/deploy --verbose \
