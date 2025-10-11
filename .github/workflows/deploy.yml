@@ -3,17 +3,13 @@ name: deploy
 on:
   push:
     branches:
-      - master
-      - main
       - develop
   pull_request:
     branches:
-      - master
-      - main
       - develop
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,32 +22,19 @@ jobs:
           ruby-version: '3.0.2'
           bundler-cache: true
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
+          bundle install
           npm install -g mermaid.cli
 
-      - name: Setup deploy options
-        id: setup
+      - name: Build site
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then
-            echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
-            echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
-          elif [[ ${GITHUB_REF} = refs/heads/* ]]; then
-            echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
-          fi
-          echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+          bundle exec jekyll build
 
-      - name: Fix permissions
-        run: |
-          chmod a+x bin/*
-          git add bin/*
-          git commit -m "Add execute permission to bin/deploy" || echo "No changes to commit"
-
-      - name: Deploy website
-        run: |
-          yes | bash bin/deploy --verbose \
-            ${{ steps.setup.outputs.NO_PUSH }} \
-            --src ${{ steps.setup.outputs.SRC_BRANCH }} \
-            --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          allow_empty_commit: true
