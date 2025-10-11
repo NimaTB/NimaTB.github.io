@@ -4,17 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-<<<<<<< HEAD
   - NimaTB/algorithm_datastructure_practice
   - NimaTB/data-science-road-map
   
 
-=======
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
->>>>>>> upstream/master

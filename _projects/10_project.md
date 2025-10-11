@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: project 10
 description: A project with an introduction section
@@ -48,4 +48,4 @@ Right now, the only eligible options for `site` is `devicons` and `skillicons`
 
 `repository` is also a list of all the repositories that can be displayed. Each item needs to be written in the following format: `owner/repository`.
 
-After this, al-folio will automatically generate a card with the proper theme. It will also create a link that will redirect viewers to the repository whenever they click the card.
+After this, al-folio will automatically generate a card with the proper theme. It will also create a link that will redirect viewers to the repository whenever they click the card. -->

@@ -1,14 +1,8 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: event identification
 description: A Machine Learning Framework for Event Identification via Modal Analysis of PMU Data
 img: 
-=======
-title: project 1
-description: with background image
-img: assets/img/12.jpg
->>>>>>> upstream/master
 importance: 1
 category: work
 related_publications: true

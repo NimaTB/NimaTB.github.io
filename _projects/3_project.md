@@ -1,15 +1,8 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: Resiliency assesment
 description: A novel approach for probabilistic hurricane resiliency assessment of an active distribution system using point estimate method
 img: 
-=======
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
->>>>>>> upstream/master
 importance: 3
 category: work
 ---

@@ -1,14 +1,8 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: Forced Oscillation Localization 
 description: A Complex-LASSO Approach for Localizing Forced Oscillations in Power Systems
 img: 
-=======
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
->>>>>>> upstream/master
 importance: 2
 category: work
 giscus_comments: true
