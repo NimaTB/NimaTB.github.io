@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://Nima.T.Bazargani.github.io/sitemap.xml
